@@ -12,4 +12,6 @@ for an example.
 Finally, visit your GitHub Pages site! For example, see
 [http://pickardayune.com/hugo-pages](http://spraints.github.io/hugo-pages).
 
+Added line.
+
 testing
