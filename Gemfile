@@ -9,7 +9,7 @@ gem "uglifier",              ">= 1.3.0"
 
 gem "octokit",               "4.3.0"
 gem "omniauth-github",       "1.1.2"
-gem "puma",                  "3.4.0"
+gem "puma",                  "3.12.3"
 
 group :development, :test do
   gem "byebug"
