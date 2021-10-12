@@ -81,6 +81,7 @@ GEM
     multi_json (1.12.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
+    nio4r (2.5.8)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     oauth2 (1.1.0)
@@ -101,7 +102,8 @@ GEM
       oauth2 (~> 1.0)
       omniauth (~> 1.2)
     pg (0.18.4)
-    puma (3.4.0)
+    puma (4.3.9)
+      nio4r (~> 2.0)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -195,7 +197,7 @@ DEPENDENCIES
   octokit (= 4.3.0)
   omniauth-github (= 1.1.2)
   pg
-  puma (= 3.4.0)
+  puma (= 4.3.9)
   rails (= 4.2.6)
   rails_12factor
   rspec-rails
